@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					A004BB801DA4EB25000DF5EA = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = H9Z7294LVH;
 						ProvisioningStyle = Automatic;
 					};
 					A004BB941DA4EB25000DF5EA = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H9Z7294LVH;
 				INFOPLIST_FILE = git_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yujimiyano.git-test";
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H9Z7294LVH;
 				INFOPLIST_FILE = git_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yujimiyano.git-test";
@@ -505,6 +508,7 @@
 				A004BBAB1DA4EB25000DF5EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A004BBAC1DA4EB25000DF5EA /* Build configuration list for PBXNativeTarget "git_testTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				A004BBAE1DA4EB25000DF5EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A004BBAF1DA4EB25000DF5EA /* Build configuration list for PBXNativeTarget "git_testUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				A004BBB11DA4EB25000DF5EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
